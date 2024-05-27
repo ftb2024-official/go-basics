@@ -1,7 +1,7 @@
 package main
 
-import test "go-basics/atomics"
+import test "go-basics/tasks"
 
 func main() {
-	test.Example2()
+	test.Task1()
 }
