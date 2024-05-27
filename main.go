@@ -1,7 +1,7 @@
 package main
 
-import test "go-basics/tasks"
+import test "go-basics/waitgroups"
 
 func main() {
-	test.Task1()
+	test.Example1()
 }
