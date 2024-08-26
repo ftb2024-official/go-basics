@@ -1,4 +1,4 @@
-package solid
+package lsp
 
 import "fmt"
 
@@ -25,7 +25,7 @@ type teacher struct {
 	salary float64
 }
 
-func Example5() {
+func Example1() {
 	h := human{"Alex"}
 	t := teacher{human{"Michael"}, "CS", 2000}
 	s := student{human{"Mike"}, map[string]int{"English": 8, "Math": 9}}
