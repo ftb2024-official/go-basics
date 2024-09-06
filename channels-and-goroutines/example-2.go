@@ -1,4 +1,4 @@
-package channelsplusgoroutines
+package channelsandgoroutines
 
 import (
 	"fmt"

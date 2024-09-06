@@ -2,7 +2,7 @@
 Использование пакета context
 */
 
-package channelsplusgoroutines
+package channelsandgoroutines
 
 import (
 	"context"

@@ -2,7 +2,7 @@
 Использование каналов для управления горутинами
 */
 
-package channelsplusgoroutines
+package channelsandgoroutines
 
 import (
 	"fmt"

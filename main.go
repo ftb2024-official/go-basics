@@ -1,7 +1,7 @@
 package main
 
-import test "go-basics/waitgroups"
+import test "go-basics/channels-and-goroutines"
 
 func main() {
-	test.Example1()
+	test.Example6()
 }
